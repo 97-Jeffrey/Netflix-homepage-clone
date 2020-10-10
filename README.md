@@ -1,0 +1,1 @@
+## This is a  projects aims to practice with basic html elements and css stylings.
